@@ -9,3 +9,5 @@ export default {
 //API key	a93de24082dbff8a54f289fb25e8e954
 //Shared secret	781e21613bf79afd1e53b9886625dba9
 //Registered to	wfranco007
+// ssh-keygen -t rsa -b 4096 -C "wfranco007@gmail.com" ghkey
+// cat ghkey.pub | xclip
